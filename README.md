@@ -26,6 +26,9 @@ In this tutorial I have implemented in my project a BDD tool known as **Cucumber
 * Gherkin
 * Junit
 
+![alt text](https://i.ibb.co/4wqjD3x/Altug-Project-Organisation.png)
+
+
 Tested **scenario** was the Reset functionality of the login form placed inside the demo website that is available at http://demo.guru99.com/V4/
 
 In the output I wanted to see the following:
@@ -38,8 +41,6 @@ In the output I wanted to see the following:
 ![alt text](https://i.ibb.co/vxq6k4B/Altug-Steps-File.png)
 
 ![alt text](https://i.ibb.co/YWmN9fQ/Altug-Junit.png)
-
-![alt text](https://ibb.co/KqfxC2T)
 
 ![alt text](https://ibb.co/zWMSLDw)
 
