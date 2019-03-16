@@ -48,5 +48,4 @@ In the output I wanted to see the following:
 
 ![alt text](https://i.ibb.co/YWmN9fQ/Altug-Junit.png)
 
-
-
+![alt text](https://i.ibb.co/NjJ2w9c/altug-output.png)
