@@ -26,7 +26,7 @@ In this tutorial I have implemented in my project a BDD tool known as **Cucumber
 * Gherkin
 * Junit
 
-Tested **scenario** was the Reset functionality of the login form inside demo website available at http://demo.guru99.com/V4/
+Tested **scenario** was the Reset functionality of the login form placed inside the demo website available at http://demo.guru99.com/V4/
 
 In the output I wanted to see the following:
 
