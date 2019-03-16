@@ -40,9 +40,9 @@ In the output I wanted to see the following:
 
 ![alt text](https://i.ibb.co/CvsLZ6X/Altug-Feature-File.png)
 
-![alt text](https://i.ibb.co/YWmN9fQ/Altug-Junit.png)
+![alt text](https://i.ibb.co/fHfxNw7/Altug-Runner-File.png)
 
-![alt text](https://ibb.co/zWMSLDw)
+![alt text](https://i.ibb.co/w7Nv2X9/Altug-Test-Result.png)
 
 ![alt text](https://ibb.co/yqtQkjJ)
 
