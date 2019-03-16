@@ -9,4 +9,4 @@ BDD simply focuses on:
 *	**What** to call the tests
 *	**How** to understand why a test fails
 
-In this tutorial I have implemented in my project a BDD tool known as **Cucumber**. To make the testing process simple I also took advantages of **Selenium Framework** which helps us automate browsers.
+In this tutorial I have implemented in my project a BDD tool known as **Cucumber**. To make the testing phase easier I also took advantages of **Selenium Framework** for automating Chrome browser.
