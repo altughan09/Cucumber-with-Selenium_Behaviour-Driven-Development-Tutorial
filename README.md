@@ -34,3 +34,18 @@ In the output I wanted to see the following:
 * Demo site is loaded.
 * Username and password I provided in the Step definiton are placed on the login page.
 * All values are resetted.
+
+![alt text](https://ibb.co/ctXqHwp)
+
+![alt text](https://ibb.co/j5m8K3f)
+
+![alt text](https://ibb.co/KqfxC2T)
+
+![alt text](https://ibb.co/zWMSLDw)
+
+![alt text](https://ibb.co/yqtQkjJ)
+
+![alt text](https://ibb.co/BV35B2P)
+
+![alt text](https://ibb.co/HCDJ9sW)
+
