@@ -9,7 +9,22 @@ BDD simply focuses on:
 *	**What** to call the tests
 *	**How** to understand why a test fails
 
-In this tutorial I have implemented in my project a BDD tool known as **Cucumber**. To make the testing phase easier I also took advantage of **Selenium Framework** for automating my Chrome browser.
+In this tutorial I have implemented in my project a BDD tool known as **Cucumber**. To make the testing phase easier I also took advantage of **Selenium Framework** for automating my Chrome browser. Below is the jar files list added to my project. 
+
+**Selenium jar files:**
+Selenium-server-standalone
+
+**Cucumber jar files**
+Cucumber-core
+Cucumber-html
+cobertura code coverage
+Cucumber-java
+Cucumber-junit
+Cucumber-jvm-deps
+Cucumber-reporting
+Hemcrest-core
+Gherkin
+Junit
 
 Tested **scenario** was the Reset functionality on login page of demo website available at http://demo.guru99.com/V4/
 
