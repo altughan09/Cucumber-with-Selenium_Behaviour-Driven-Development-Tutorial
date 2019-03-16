@@ -11,10 +11,10 @@ BDD simply focuses on:
 
 In this tutorial I have implemented in my project a BDD tool known as **Cucumber**. To make the testing phase easier I also took advantage of **Selenium Framework** for automating my Chrome browser. Below is the jar files list added to my project. 
 
-**Selenium jar files:**
+**Selenium jar files:** (Downloaded from Selenium Official Website)
 * Selenium-server-standalone
 
-**Cucumber jar files**
+**Cucumber jar files** (Downloaded from Maven Repository)
 * Cucumber-core
 * Cucumber-html
 * cobertura code coverage
