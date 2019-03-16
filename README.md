@@ -42,11 +42,11 @@ In the output I wanted to see the following:
 
 ![alt text](https://i.ibb.co/fHfxNw7/Altug-Runner-File.png)
 
+![alt text](https://i.ibb.co/vxq6k4B/Altug-Steps-File.png)
+
 ![alt text](https://i.ibb.co/w7Nv2X9/Altug-Test-Result.png)
 
-![alt text](https://ibb.co/yqtQkjJ)
+![alt text](https://i.ibb.co/YWmN9fQ/Altug-Junit.png)
 
-![alt text](https://ibb.co/BV35B2P)
 
-![alt text](https://ibb.co/HCDJ9sW)
 
