@@ -15,7 +15,7 @@ Tested **scenario** was the Reset functionality on login page of demo website av
 
 In the output I wanted to see the following:
 
-*Launch browser.
-*Demo site is loaded.
-*Username and password I provided in the Step definiton are placed on the login page.
-*All values are resetted.
+* Launch browser.
+* Demo site is loaded.
+* Username and password I provided in the Step definiton are placed on the login page.
+* All values are resetted.
