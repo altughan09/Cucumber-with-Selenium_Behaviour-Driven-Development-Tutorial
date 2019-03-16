@@ -9,6 +9,13 @@ BDD simply focuses on:
 *	**What** to call the tests
 *	**How** to understand why a test fails
 
-In this tutorial I have implemented in my project a BDD tool known as **Cucumber**. To make the testing phase easier I also took advantage of **Selenium Framework** for automating Chrome browser.
+In this tutorial I have implemented in my project a BDD tool known as **Cucumber**. To make the testing phase easier I also took advantage of **Selenium Framework** for automating my Chrome browser.
 
-For testing purposes I used Guru demo website available at http://demo.guru99.com/V4/
+Tested **scenario** was the Reset functionality on login page of demo website available at http://demo.guru99.com/V4/
+
+In the output I wanted to see the following:
+
+*Launch browser.
+*Demo site is loaded.
+*Username and password I provided in the Step definiton are placed on the login page.
+*All values are resetted.
