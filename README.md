@@ -35,9 +35,9 @@ In the output I wanted to see the following:
 * Username and password I provided in the Step definiton are placed on the login page.
 * All values are resetted.
 
-![alt text](https://ibb.co/ctXqHwp)
+![alt text](https://i.ibb.co/vxq6k4B/Altug-Steps-File.png)
 
-![alt text](https://ibb.co/j5m8K3f)
+![alt text](https://i.ibb.co/YWmN9fQ/Altug-Junit.png)
 
 ![alt text](https://ibb.co/KqfxC2T)
 
