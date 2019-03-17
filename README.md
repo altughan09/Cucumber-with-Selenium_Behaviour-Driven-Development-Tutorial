@@ -42,7 +42,7 @@ In the output I wanted to see the following:
 
 ![alt text](https://i.ibb.co/fHfxNw7/Altug-Runner-File.png)
 
-![alt text](https://i.ibb.co/vxq6k4B/Altug-Steps-File.png)
+![alt text](https://i.ibb.co/YBhK2mQ/aaa.png)
 
 ![alt text](https://i.ibb.co/w7Nv2X9/Altug-Test-Result.png)
 
