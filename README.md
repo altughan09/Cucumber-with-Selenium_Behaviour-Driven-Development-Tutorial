@@ -40,11 +40,7 @@ To make the testing phase even easier I also took advantage of **Selenium Framew
 
 ![alt text](https://i.ibb.co/xmjx6z3/Altug-Feature-File.png)
 
-![alt text](https://i.ibb.co/fHfxNw7/Altug-Runner-File.png)
-
 ![alt text](https://i.ibb.co/YBhK2mQ/aaa.png)
-
-![alt text](https://i.ibb.co/w7Nv2X9/Altug-Test-Result.png)
 
 ![alt text](https://i.ibb.co/YWmN9fQ/Altug-Junit.png)
 
