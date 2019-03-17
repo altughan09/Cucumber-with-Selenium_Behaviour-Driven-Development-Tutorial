@@ -1,13 +1,12 @@
 # Cucumber-with-Selenium_Behaviour-Driven-Development-Tutorial
 **Behavior-driven development is a software development process that is derived from Test-Driven Development (TDD) concept.**
+BDD enables the developers and the customers to work together on the requirements of a project while while TDD only gives the developer an understanding of what the system should do.
 
 
-BDD simply focuses on:
-*	**Where** to start in the process
-*	**What** to test and what not to test
-*	**How much** to test in one go
-*	**What** to call the tests
-*	**How** to understand why a test fails
+BDD benefits:
+*	**Strong collaboration with the non-developers** all the involved parties have a strong understanding of the project
+*	**High visibility** by using a language understood by all
+*	**Lower costs** by improving the quality of the code
 
 In this tutorial I have implemented in my project a BDD tool known as **Cucumber** to test the following two scenarios;
 
@@ -16,7 +15,7 @@ In this tutorial I have implemented in my project a BDD tool known as **Cucumber
 
 To execute these Cucumber test scenarios, I created **Features** and **Step Definition** files.
 
-Cucumber tool is based on the Behavior Driven Development process that bridges the gap between non-developers and developers. As it uses a plain text format called **Gherkin** it makes the code understandable for non-developers (for example for clients). 
+Cucumber tool is based on the Behavior Driven Development process that bridges the gap between non-developers and developers. It uses a plain text format called **Gherkin** that non-programmers are able to read. 
 
 To make the testing phase even easier I also took advantage of **Selenium Framework** that is a browser automation tool. Before starting out with the project the following libraries must be referenced inside the project file. 
 
