@@ -33,7 +33,7 @@ Cucumber tool is based on the Behavior Driven Development process that bridges t
 
 ![alt text](https://i.ibb.co/j64JwXH/results.png)
 
-![alt text](https://i.ibb.co/4wqjD3x/Altug-Project-Organisation.png)
+![alt text](https://i.ibb.co/VDRLRBD/Altug-Project-Organisation.png)
 
 ![alt text](https://i.ibb.co/xmjx6z3/Altug-Feature-File.png)
 
