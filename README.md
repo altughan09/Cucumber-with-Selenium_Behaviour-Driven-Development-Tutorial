@@ -9,7 +9,7 @@ BDD simply focuses on:
 *	**What** to call the tests
 *	**How** to understand why a test fails
 
-In this tutorial I have implemented in my project a BDD tool known as **Cucumber**. To make the testing phase easier I also took advantage of **Selenium Framework** for automating my Chrome browser. Below is the jar files list added to my project. 
+In this tutorial I have implemented in my project a BDD tool known as **Cucumber**. Cucumber tool is based on the Behavior Driven Development process that bridges the gap between non-developers and developers. As it uses a plain text format called **Gherkin** it makes the code understandable for non-developers (for example for clients). To make the testing phase even easier I also took advantage of **Selenium Framework** for automating web browser. Before starting out with the project the following jar files must be referenced inside the project file. 
 
 **Selenium jar files:** (Downloaded from Selenium Official Website)
 * Selenium-server-standalone
