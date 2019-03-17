@@ -9,10 +9,12 @@ BDD simply focuses on:
 *	**What** to call the tests
 *	**How** to understand why a test fails
 
-In this tutorial I have implemented in my project a BDD tool known as **Cucumber** to test 2 scenarios.
+In this tutorial I have implemented in my project a BDD tool known as **Cucumber** to test the following two scenarios;
 
 * Check login & logout functionality on demo website available at http://demo.guru99.com/V4/
 * Check the reset functionality of the login form
+
+To execute these Cucumber test scenarios, I created **Features** and **Step Definition** files.
 
 Cucumber tool is based on the Behavior Driven Development process that bridges the gap between non-developers and developers. As it uses a plain text format called **Gherkin** it makes the code understandable for non-developers (for example for clients). 
 
