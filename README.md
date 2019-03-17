@@ -1,6 +1,6 @@
 # Cucumber-with-Selenium_Behaviour-Driven-Development-Tutorial
 **Behavior-driven development is a software development process that is derived from Test-Driven Development (TDD) concept.**
-BDD enables the developers and the customers to work together on the requirements of a project while while TDD only gives the developer an understanding of what the system should do.
+BDD enables all the involved parties to work together on the requirements of a project while TDD only gives the developer an understanding of what the system should do.
 
 
 BDD benefits:
